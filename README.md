@@ -10,7 +10,7 @@
 
 ## Key Features
 
-- **💸 Free and Open-Source**: CINEXTMA is completely free to use and the source code is available for anyone to explore, contribute, and build upon.
+- **💸 Free and Open-Source**: SD_MOVIE_ADDA is completely free to use and the source code is available for anyone to explore, contribute, and build upon.
 - **🌗 Light and Dark Mode**: The application supports both light and dark modes, providing a customizable viewing experience that adapts to user preferences.
 - **🧭 Discover Content**: Users can browse through various content categories, such as popular, trending, and upcoming, to discover new movies and TV shows to enjoy.
 - **🔎 Powerful Search**: The search functionality allows users to easily find specific titles, actors, or genres, making it a breeze to locate the content they're interested in.
@@ -29,31 +29,30 @@
 
 ## Technologies Used
 
-CINEXTMA is built using the following technologies:
+SD_MOVIE_ADDA is built using the following technologies:
 
 - **Next.js 15 App Router**: The application leverages the latest version of Next.js, which includes the new App Router, providing a more intuitive and powerful development experience.
 - **Tailwind CSS 4**: The user interface is styled using the Tailwind CSS utility-first CSS framework, ensuring a visually appealing and responsive design.
 - **Next UI**: The project utilizes the Next UI library, which provides a set of high-quality, customizable React components that integrate seamlessly with Tailwind CSS.
 - **TypeScript**: The codebase is written in TypeScript, ensuring better type safety, developer productivity, and maintainability.
 - **TanStack Query**: The application uses the TanStack Query library for efficient data fetching and caching, providing a smooth and responsive user experience.
-- **The Movie Database (TMDB) API**: CINEXTMA integrates with the TMDB API to retrieve movie and TV show data, ensuring access to a vast and up-to-date content library.
+- **The Movie Database (TMDB) API**: SD_MOVIE_ADDA integrates with the TMDB API to retrieve movie and TV show data, ensuring access to a vast and up-to-date content library.
 - **Supabase**: The project uses Supabase for user authentication and database management.
 
 ## Getting Started
 
-To run CINEXTMA locally, follow these steps:
+To run SD_MOVIE_ADDA locally, follow these steps:
 
 1. Clone the repository:
 
 ```
-git clone https://github.com/wisnuwirayuda15/cinextma.git
+git clone -
 ```
 
 2. Install the dependencies:
 
 ```
-cd cinextma
-npm install
+
 ```
 
 3. Start the development server:
@@ -62,15 +61,15 @@ npm install
 npm run dev
 ```
 
-4. Open your browser and visit `http://localhost:3000` to access the CINEXTMA application.
-
+4. Open your browser and visit
+   
 ## Contributing
 
-Contributions to CINEXTMA are welcome! If you'd like to contribute, please refer to the [CONTRIBUTING](CONTRIBUTING.md) file for guidelines and instructions.
+Contributions to SD_MOVIE_ADDA are welcome! If you'd like to contribute, please refer to the [CONTRIBUTING](CONTRIBUTING.md) file for guidelines and instructions.
 
 ## License
 
-CINEXTMA is licensed under the [MIT License](LICENSE). This means you are free to use, modify, and distribute the application, as long as you include the original copyright and license notice in your work.
+SD_MOVIE_ADDA is licensed under the [MIT License](LICENSE). This means you are free to use, modify, and distribute the application, as long as you include the original copyright and license notice in your work.
 
 ## Star History
 
